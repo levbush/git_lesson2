@@ -1,0 +1,8 @@
+В ветках master и demo разные README
+
+5 коммитов (этот 6-ой):
+first commit
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+heat added
+commit
+Merge remote-tracking branch 'origin/boots_buttons'
